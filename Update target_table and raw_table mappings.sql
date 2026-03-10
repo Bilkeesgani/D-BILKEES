@@ -9,12 +9,3 @@ update app.etl_config set raw_table_mapping = json_parse ('
 ')
 where config_id = 632;
 
-
-
-proctor_loancomments_20240701012139
-proctor_coverage_insurance_update
-vendor_fivebros_servicerbidtrack
-
-bkfs_dailyreferralimages
-
-{'S': 'ERROR', 'C': '42703', 'M': 'column "bnk_chapter_13_discharge_date" of relation "temp_hermit_default_key_dates" does not exist', 'F': '/opt/brazil-pkg-cache/packages/RedshiftPADB/RedshiftPADB-1.0.79517.0/AL2_aarch64/generic-flavor/src/src/pg/src/backend/parser/parse_relation.c', 'L': '5884', 'R': 'attnameAttNum'}
