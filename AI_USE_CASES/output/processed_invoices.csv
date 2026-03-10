@@ -1,0 +1,3 @@
+Invoice File,Invoice Number,Vendor,Date,Description,Amount,Currency,GL Code,GL Account Description,AI Confidence,Processed Date
+amazon_dummy_invoice.pdf,AMZ-2026-001234,Amazon Business,2026-01-15,"Office Desk Chairs, Keyboards, Docking Stations","$1,049.97",USD,6100,Office Supplies & Equipment,High,2026-02-03 16:28:19
+office_handwritten_invoice.pdf,HW-INV-2093,Local Office Supplies Store,2026-02-03,"Printer Paper, Ink Cartridge, Desk Lamp",$154.00,USD,6100,Office Supplies & Equipment,High,2026-02-03 16:28:19
